@@ -4,15 +4,15 @@ import styles from './Card.scss';
 
 class Card extends React.Component {
     static propTypes = {
-        title: PropTypes.string.isRequired,
+      title: PropTypes.string.isRequired,
     }
 
     render() {
-        return (
-            <section className={styles.component}>
-                <p>{this.props.title}</p>
-            </section>
-        )
+      return (
+        <section className={styles.component}>
+          <p>{this.props.title}</p>
+        </section>
+      );
     }
 }
 
