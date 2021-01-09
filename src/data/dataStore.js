@@ -12,6 +12,9 @@ export const settings = {
   },
   defaultListDescription: '<p>I can do all the things!!!</p>',
   defaultColumnIcon: 'list-alt',
+  logo: {
+    icon: '<i class="fas fa-spa"></i>',
+  },
 };
 
 export const pageContents = {
