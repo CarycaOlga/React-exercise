@@ -22,6 +22,18 @@ export const pageContents = {
   subtitle: 'A simple to-do app, with lists, columns and cards',
 };
 
+export const contentInfo = {
+  title: 'I wanna do something bad',
+  image: 'https://images.pexels.com/photos/6341415/pexels-photo-6341415.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260',
+  text: 'It is probably not what you were looking for but I wanted only to grab your attention. I got it, right? The truth is I like. No, I love pancakes but I know that more love means more responsibilities.',
+};
+
+export const contentFaq = {
+  title: 'Have any question? Just ask',
+  image: 'https://images.pexels.com/photos/5709298/pexels-photo-5709298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  text: 'There is nosense to ask all the time about the same things. That is why we decided to write down question and then answer, so you do not need to remember it. All you need to do is to look at them and everything should be clear and obvious.',
+};
+
 export const listData = {
   title: 'Things to do <sup>soon!</sup>',
   description: 'Interesting things I want to check out!',
