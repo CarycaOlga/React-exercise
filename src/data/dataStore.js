@@ -94,6 +94,18 @@ const lists = [
     description: 'Interesting things I want to check out!',
     image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
   },
+  {
+    id: 'list-3',
+    title: 'Things to do before 30<sup>th</sup',
+    description: 'Moments worth remembering',
+    image: 'https://images.pexels.com/photos/2132013/pexels-photo-2132013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  },
+  {
+    id: 'list-4',
+    title: 'Things to do if I have time',
+    description: 'Things that are not necessary, but makes me happy',
+    image: 'https://images.pexels.com/photos/906106/pexels-photo-906106.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+  },
 ];
 
 const columns = [
